@@ -1,0 +1,17 @@
+{
+  "include": [
+    "resources/js/**/*"
+  ],
+  "compilerOptions": {
+
+    "target": "es6",
+    "module": "es2015",
+    "moduleResolution": "node",
+    "jsx": "react",
+    "sourceMap": true,
+    "strict": false,
+    "allowSyntheticDefaultImports": true,
+    "allowJs": true
+  },
+  "exclude": ["node_modules"]
+}
